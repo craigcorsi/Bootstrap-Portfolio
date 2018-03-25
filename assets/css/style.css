@@ -1,0 +1,15 @@
+body {
+    overflow-y: scroll;
+}
+
+.row {
+    margin-bottom: 15px;
+}
+
+.thumbnail-wrapper {
+    margin-top: 20px;
+}
+
+.thumb-gh, .thumb-li, .thumb-so {
+    width: 75px;
+}
